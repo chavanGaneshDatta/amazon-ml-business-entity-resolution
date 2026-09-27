@@ -1,0 +1,17 @@
+# Dataset
+dataset/
+
+# Generated output/cache files
+output/candidate_pairs.tsv
+output/matching_results.tsv
+output/test_s23_*
+
+# Logs
+*_log.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large archives
+*.zip
